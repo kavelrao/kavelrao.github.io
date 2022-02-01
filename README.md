@@ -1,1 +1,1 @@
-My personal website - check it out at [kavelrao.com](https://kavelrao.com)!
+My personal website - check it out at [kavelrao.dev](https://kavelrao.dev)!
