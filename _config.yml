@@ -4,7 +4,7 @@ description: > # The description for your site
   My personal website to host projects and blog posts.
 url: https://kavelrao.com # Site base URL
 domain: kavelrao.com
-baseurl: /
+baseurl: /kavelrao.github.io/
 
 author:
   name: Kavel Rao
