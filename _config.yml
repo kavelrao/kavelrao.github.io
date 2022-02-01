@@ -1,14 +1,14 @@
 title: Kavel Rao # Shown in header on pages with full_logo: true
 short_logo: KR. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
-  I'm an undergrad computer science student passionate about using software in conversational AI and social good applications.
+  My personal website to host projects and blog posts.
 url: "https://kavelrao.github.io" # Site base URL
 
 author:
   name: Kavel Rao
   github: kavelrao # GitHub username, used for GitHub icon on the top right
   linkedin: kavel-rao # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: kavelrao@uw.com # Used for email icon on the top right
+  email: kavelrao@cs.uw.com # Used for email icon on the top right
   homepage: https://kavelrao.com # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
