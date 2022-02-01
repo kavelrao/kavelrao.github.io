@@ -14,7 +14,8 @@ sitemap:
 
 <br>
 
-I'm an undergraduate computer science student passionate about using software in conversational AI and social good applications. I currently work in an internship at Conversica, where I'm building platforms that support our model operations. 
+I'm an undergraduate computer science student passionate about using software in conversational AI and social good applications. \\
+I currently work in an internship at Conversica, where I'm building platforms that support our natural language understanding and generation AI model operations. I'm also a scholar of the NASA Space Grant Consortium at the University of Washington.
 
 Take a look at my [projects](/projects), [github](github.com/kavelrao) or [r&eacute;sum&eacute;](/assets/files/resume.pdf)! \\
 You can email me at [kavelrao@cs.uw.edu](kavelrao@cs.uw.edu) :)
