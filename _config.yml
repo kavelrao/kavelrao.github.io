@@ -1,7 +1,7 @@
 title: Kavel Rao # Shown in header on pages with full_logo: true
 short_logo: KR. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
-  My personal website to host projects and blog posts.
+  My personal website to host project pages and blog posts.
 url: https://kavelrao.dev # Site base URL
 domain: kavelrao.dev
 baseurl: /

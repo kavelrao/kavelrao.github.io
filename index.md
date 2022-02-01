@@ -2,7 +2,7 @@
 layout: page
 full_logo: true
 title: Kavel Rao
-subtitle: This is my personal website to host project pages and blog posts.
+subtitle: My personal website to host project pages and blog posts.
 description: My personal website to host project pages and blog posts.
 sitemap:
   priority: 1.0
