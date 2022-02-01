@@ -2,8 +2,8 @@ title: Kavel Rao # Shown in header on pages with full_logo: true
 short_logo: KR. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   My personal website to host projects and blog posts.
-url: https://kavelrao.com # Site base URL
-domain: kavelrao.com
+url: https://kavelrao.dev # Site base URL
+domain: kavelrao.dev
 baseurl: /
 
 author:
@@ -11,7 +11,7 @@ author:
   github: kavelrao # GitHub username, used for GitHub icon on the top right
   linkedin: kavel-rao # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: kavelrao@cs.uw.com # Used for email icon on the top right
-  homepage: https://kavelrao.com # This links to your name in post meta
+  homepage: https://kavelrao.dev # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments
