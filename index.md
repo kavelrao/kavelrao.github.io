@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kavel Rao
+title: Home
 ---
 <img src="/public/img/personal-photo.jpg" style="display: block; margin-top: auto; margin-left: 0rem; margin-right: auto; width: 8rem; height: 8rem;" />
 
