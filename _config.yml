@@ -1,0 +1,26 @@
+# Setup
+title:               Kavel Rao
+tagline:             ''
+description:         'My personal website'
+url:                 https://kavelrao.dev
+baseurl:             ''
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Kavel Rao
+  email:             kavelrao@cs.uw.edu
+  linkedin:          kavel-rao
+  github:            kavelrao
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Pagination
+paginate:            5
+paginate_path:       '/blog/page:num'
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
