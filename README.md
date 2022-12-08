@@ -1,1 +1,0 @@
-My personal website - check it out at [kavelrao.dev](https://kavelrao.dev)!
