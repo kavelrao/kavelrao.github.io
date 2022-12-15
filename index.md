@@ -5,9 +5,9 @@ title: Home
 <img src="/public/img/personal-photo.jpg" style="display: block; margin-top: auto; margin-left: 0rem; margin-right: auto; width: 8rem; height: 8rem;" />
 
 Hi, welcome to my personal website! \
+<!--- [blog]({{absolute_url}}/blog) | -->
 [github](https://github.com/{{site.author.github}}){:target="_blank"} |
 [r&eacute;sum&eacute;]({{absolute_url}}/public/files/resume.pdf){:target="_blank"} |
-<!--- [blog]({{absolute_url}}/blog) | -->
 [linkedin](https://linkedin.com/in/{{site.author.linkedin}}){:target="_blank"} |
 [{{site.author.email}}](mailto:{{site.author.email}})
 
