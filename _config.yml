@@ -6,6 +6,10 @@ url:                 https://kavelrao.dev
 baseurl:             ''
 permalink:           pretty
 
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
+
 # About/contact
 author:
   name:              Kavel Rao
