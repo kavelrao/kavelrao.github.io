@@ -5,7 +5,7 @@ title: Home
 <img src="/public/img/profile-picture.jpg" style="display: block; margin-top: auto; margin-left: 0rem; margin-right: auto; width: 10rem;" />
 
 Hi, welcome to my website! \
-<!--- [blog]({{absolute_url}}/blog) | -->
+[blog]({{absolute_url}}/blog) |
 [publications]({{absolute_url}}/publications) |
 [github](https://github.com/{{site.author.github}}){:target="_blank"} |
 [resume]({{absolute_url}}/public/files/resume.pdf){:target="_blank"} |
