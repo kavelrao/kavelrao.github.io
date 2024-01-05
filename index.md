@@ -20,7 +20,7 @@ My interests are in using software and AI for social good, and I'm always explor
 My first research project jointly authored with [Liwei Jiang](https://liweijiang.me/){:target="_blank"} in [Yejin Choi](https://homes.cs.washington.edu/~yejin/){:target="_blank"}'s lab was accepted to EMNLP Findings 2023 - read the paper [here](https://arxiv.org/abs/2310.15431){:target="_blank"}!
 I'm looking forward to pursuing future projects focusing on novel explainable, creative, and efficient AI systems and uses that benefit humanity.
 
-I'll soon be an intern at [Databricks](https://databricks.com){:target="_blank"} in the upcoming summer of 2024 (team matching TBD).
+I'll soon be an intern at [Databricks](https://databricks.com){:target="_blank"} in the upcoming summer of 2024.
 In the summer of 2023, I was an intern in [Stripe](https://stripe.com){:target="_blank"}'s risk organization, improving tools for risk analysts to investigate suspicious merchants on the platform. 
 From 2020 to 2022, I worked as a software engineering intern at [Conversica](https://conversica.com){:target="_blank"}, where I built platforms powering AI model operations, including natural language understanding and generation.
 
