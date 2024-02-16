@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "137 Days Abroad"
+image: /public/img/abroad-cliff-jumping
 ---
 
 

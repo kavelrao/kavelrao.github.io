@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2024: Year of Depth"
+image: /public/img/yearly_theme-branching-trend.png
 ---
 
 ## What is a Yearly Theme?
