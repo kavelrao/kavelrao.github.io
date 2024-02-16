@@ -14,9 +14,11 @@ title: Blog
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
+<!--
     {% if post.image %}
-    <img src="{{ absolute_url }}/public/img/{{ post.image }}">
+    <img src="{{ relative_url }}{{ post.image }}">
     {% endif %}
+-->
 
     {{ post.description }}
   </div>
