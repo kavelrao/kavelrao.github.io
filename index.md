@@ -18,7 +18,7 @@ My interests are in using software and AI for social good, and I'm always explor
 
 I have two papers accepted to NeurIPS 2024! Check out [WildGuard](https://arxiv.org/abs/2406.18495){:target="_blank"} and [WildTeaming](https://arxiv.org/abs/2406.18510){:target="_blank"} for works on LLM jailbreaking, safety, and guardrails.
 
-After graduating, I will be a software engineer at [Databricks](https://databricks.com){:target="_blank"} working on , where I also interned in the summer of 2024.
+After graduating, I will be a software engineer at [Databricks](https://databricks.com){:target="_blank"}, where I also interned in the summer of 2024.
 In the summer of 2023, I was an intern in [Stripe](https://stripe.com){:target="_blank"}'s risk organization, improving tools for risk analysts to investigate suspicious merchants on the platform.
 From 2020 to 2022, I worked as a software engineering intern at [Conversica](https://conversica.com){:target="_blank"}, where I built platforms powering AI model operations, including natural language understanding and generation.
 
