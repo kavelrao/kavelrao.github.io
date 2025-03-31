@@ -12,7 +12,7 @@ Hi, welcome to my website! \
 [linkedin](https://linkedin.com/in/{{site.author.linkedin}}){:target="_blank"} |
 [{{site.author.email}}](mailto:{{site.author.email}})
 
-I am a BS/MS computer science student and NASA Space Grant scholar at the University of Washington.
+I graduated in 2025 from the BS/MS computer science program at the University of Washington, where I was also a NASA Space Grant scholar.
 In Fall 2023, I went for an exchange semester at ETH Zurich, where I took classes on programming languages and computer architecture and traveled around Europe.
 
 I have two papers accepted to NeurIPS 2024! Check out [WildGuard](https://arxiv.org/abs/2406.18495){:target="_blank"} and [WildTeaming](https://arxiv.org/abs/2406.18510){:target="_blank"} for works on LLM jailbreaking, safety, and guardrails.
