@@ -10,7 +10,7 @@ Hi, welcome to my website! \
 [github](https://github.com/{{site.author.github}}){:target="_blank"} |
 [{{site.author.email}}](mailto:{{site.author.email}})
 
-I'm from Seattle and now live in New York City since June 2025.
+I'm from Seattle and now live in New York City, since June 2025.
 
 I graduated in 2025 from the BS/MS computer science program at the University of Washington.
 In Fall 2023, I lived in Switzerland for a few months while doing an exchange semester at ETH Zurich,
